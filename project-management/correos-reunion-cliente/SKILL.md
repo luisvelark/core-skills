@@ -32,15 +32,15 @@ Omite detalle técnico que no sea necesario para entender los acuerdos y evita r
 
 Ajusta el énfasis según el propósito real de la reunión. Estas guías son orientativas; manda el contexto.
 
-| Sesión | Enfoque del correo |
-|---|---|
-| Kickoff | Alineación, objetivos, alcance y próximos pasos |
-| Seguimiento | Avances, acuerdos, pendientes y compromisos |
-| Discovery | Necesidades, procesos, requerimientos y definiciones |
-| Validación / UAT | Pruebas, observaciones, correcciones y criterios pendientes |
-| Salida a producción | Fechas, condiciones de liberación, responsables y actividades previas |
-| Soporte / revisión técnica | Incidencias, hallazgos, acciones correctivas y próximos pasos |
-| Cierre | Resultados, entregables, conformidades y actividades posteriores |
+| Sesión                     | Enfoque del correo                                                    |
+| -------------------------- | --------------------------------------------------------------------- |
+| Kickoff                    | Alineación, objetivos, alcance y próximos pasos                       |
+| Seguimiento                | Avances, acuerdos, pendientes y compromisos                           |
+| Discovery                  | Necesidades, procesos, requerimientos y definiciones                  |
+| Validación / UAT           | Pruebas, observaciones, correcciones y criterios pendientes           |
+| Salida a producción        | Fechas, condiciones de liberación, responsables y actividades previas |
+| Soporte / revisión técnica | Incidencias, hallazgos, acciones correctivas y próximos pasos         |
+| Cierre                     | Resultados, entregables, conformidades y actividades posteriores      |
 
 ## Tono
 
@@ -67,6 +67,7 @@ Incluye únicamente las secciones que tengan información relevante; no fuerces 
 Estas reglas existen porque el correo queda como registro escrito frente al cliente y un dato inventado compromete al equipo.
 
 - No inventes nombres, fechas, horarios, responsables, decisiones, resultados ni compromisos.
+- los responsables solo son Inconcert y el nombre de la empresa del cliente.
 - No presentes una fecha estimada como confirmada, ni uses expresiones que comprometan al equipo con fechas o resultados no confirmados («estimamos», «a validar» según corresponda).
 - Respeta valores, porcentajes, horarios y zonas horarias tal como aparecen en las notas.
 - Conserva nombres de herramientas, módulos, funcionalidades y proyectos relevantes.
