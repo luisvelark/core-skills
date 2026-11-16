@@ -1,0 +1,29 @@
+# Plantilla por defecto
+
+Úsala cuando el usuario no entregue una plantilla propia. Es una guía de estructura, tono y formato; el contenido entre corchetes se reemplaza siempre con datos reales de la reunión, y las secciones sin información se eliminan.
+
+---
+
+**Asunto:** [Resumen de acuerdos y próximos pasos] | [Proyecto / Cliente] | [Tipo de sesión]
+
+Hola [equipo / nombre],
+
+[Agradecimiento por la participación. Una frase sobre el propósito de la sesión y que a continuación se resumen los acuerdos y próximos pasos.]
+
+**Acuerdos de la sesión:**
+- ✅ **[Tema o concepto]:** [Decisión o acuerdo confirmado, con datos concretos]. [**Fecha**, si aplica].
+- ✅ **[Tema o concepto]:** [Decisión o acuerdo confirmado].
+
+**Pendientes:**
+- 🔄 **[Responsable]:** [Actividad concreta]. [Fecha o condición, cuando corresponda].
+- 🔄 **[Responsable]:** [Actividad concreta]. [Fecha o condición, cuando corresponda].
+
+**Recomendaciones:**
+- [Recomendación accionable, riesgo o acción preventiva relevante para el cliente.]
+
+**Próximos pasos:**
+- [Siguiente reunión, hito o actividad con fecha, si está confirmada.]
+
+[Cierre cordial: reforzar la colaboración y la disponibilidad para consultas.]
+
+Saludos,
