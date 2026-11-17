@@ -52,15 +52,20 @@ Incluye únicamente las secciones que tengan información relevante; no fuerces 
 
 1. **Asunto**: breve y descriptivo; identifica cliente, proyecto y propósito. Ejemplo: `Acuerdos y próximos pasos | Proyecto Bahía Motors | Sesión de seguimiento`.
 2. **Saludo y apertura**: cordial; agradece la participación, menciona el propósito de la sesión e introduce el resumen. Evita aperturas genéricas que no correspondan al tipo de reunión.
-3. **Acuerdos de la sesión**: decisiones y acuerdos confirmados, una viñeta por acuerdo, con este formato exacto:
+3. **Acuerdos de la sesión**: decisiones y acuerdos confirmados. Presenta el encabezado con tamaño de letra de **14 pt** y una viñeta por acuerdo, con este formato exacto:
    `✅ **[Tema o concepto]:** [Acuerdo o decisión con datos concretos]. [Fecha, si aplica].`
-   Los compromisos operativos pendientes van en la sección siguiente.
-4. **Pendientes**: una viñeta por compromiso, con este formato exacto:
+   Los compromisos operativos pendientes van en su sección correspondiente.
+4. **Entregables**: resultados o artefactos concretos entregados, por entregar o previstos como resultado de la sesión (por ejemplo, documentos, configuraciones, reportes, correcciones o versiones). Presenta el encabezado con tamaño de letra de **14 pt**. Incluye una viñeta por entregable y, cuando se conozcan, su responsable, estado y fecha o condición de entrega. No conviertas una idea o recomendación en entregable.
+5. **Pendientes**: presenta el encabezado con tamaño de letra de **14 pt** y una viñeta por compromiso, con este formato exacto:
    `🔄 **[Responsable]:** [Actividad concreta]. [Fecha o condición, si aplica].`
    Agrupa por responsable cuando facilite el seguimiento.
-5. **Recomendaciones**: solo si hay recomendaciones útiles, riesgos, consideraciones técnicas o acciones preventivas. Deben ser accionables y concretas.
-6. **Próximos pasos**: siguientes actividades, reuniones o hitos. No dupliques lo ya explicado en Pendientes.
-7. **Cierre**: frase cordial que refuerce la colaboración y la disponibilidad para consultas, seguida de «Saludos,».
+6. **Recomendaciones**: solo si hay recomendaciones útiles, riesgos, consideraciones técnicas o acciones preventivas. Deben ser accionables y concretas.
+7. **Próximos pasos**: presenta el encabezado con tamaño de letra de **14 pt** y resume las siguientes actividades, reuniones o hitos. No dupliques lo ya explicado en Pendientes o Entregables.
+8. **Cierre**: frase cordial que refuerce la colaboración y la disponibilidad para consultas, seguida de «Saludos,».
+
+Para aplicar el tamaño solicitado en un correo HTML o en un cliente que interprete HTML, usa este patrón en los encabezados de **Acuerdos de la sesión**, **Entregables**, **Pendientes** y **Próximos pasos**:
+`<p style="font-size:14pt"><strong>[Nombre de la sección]:</strong></p>`
+Conserva el contenido de las viñetas en el tamaño normal del correo. Si el entorno de salida no interpreta HTML, mantén los encabezados en negrita y prioriza la legibilidad.
 
 ## Reglas de integridad
 
@@ -81,10 +86,11 @@ Estas reglas existen porque el correo queda como registro escrito frente al clie
 - Evita párrafos extensos y redundancias. Es una síntesis ejecutiva, no una transcripción.
 - Usa negritas para responsables, fechas, hitos y conceptos clave. Mantén el formato limpio.
 - Cada pendiente expresa una acción concreta, con responsable cuando se conoce.
+- Cada entregable identifica un resultado concreto y lo diferencia de un acuerdo, pendiente, recomendación o próximo paso.
 
 ## Verificación antes de entregar
 
-Comprueba internamente que: el correo corresponde al tipo de sesión; los acuerdos reflejan lo conversado; los pendientes tienen acción y responsable cuando se conocen; fechas y horarios coinciden con el origen; no hay compromisos inventados o presentados como confirmados; no hay repetición innecesaria; y el correo está listo para copiar, editar y enviar.
+Comprueba internamente que: el correo corresponde al tipo de sesión; los acuerdos reflejan lo conversado; los entregables son resultados concretos y están diferenciados de los pendientes; los pendientes tienen acción y responsable cuando se conocen; fechas y horarios coinciden con el origen; no hay compromisos inventados o presentados como confirmados; los encabezados de Acuerdos de la sesión, Entregables, Pendientes y Próximos pasos usan 14 pt cuando el formato HTML está disponible; no hay repetición innecesaria; y el correo está listo para copiar, editar y enviar.
 
 ## Formato de salida
 
