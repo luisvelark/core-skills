@@ -10,21 +10,21 @@ Hola [equipo / nombre],
 
 [Agradecimiento por la participación. Una frase sobre el propósito de la sesión y que a continuación se resumen los acuerdos y próximos pasos.]
 
-<p style="font-size:14pt"><strong>Acuerdos de la sesión:</strong></p>
+**Acuerdos de la sesión:**
 - ✅ **[Tema o concepto]:** [Decisión o acuerdo confirmado, con datos concretos]. [**Fecha**, si aplica].
 - ✅ **[Tema o concepto]:** [Decisión o acuerdo confirmado].
 
-<p style="font-size:14pt"><strong>Entregables:</strong></p>
+**Entregables:**
 - 📦 **[Entregable]:** [Resultado o artefacto concreto, responsable, estado y fecha o condición de entrega, cuando corresponda].
 
-<p style="font-size:14pt"><strong>Pendientes:</strong></p>
+**Pendientes:**
 - 🔄 **[Responsable]:** [Actividad concreta]. [Fecha o condición, cuando corresponda].
 - 🔄 **[Responsable]:** [Actividad concreta]. [Fecha o condición, cuando corresponda].
 
 **Recomendaciones:**
 - [Recomendación accionable, riesgo o acción preventiva relevante para el cliente.]
 
-<p style="font-size:14pt"><strong>Próximos pasos:</strong></p>
+**Próximos pasos:**
 - [Siguiente reunión, hito o actividad con fecha, si está confirmada.]
 
 [Cierre cordial: reforzar la colaboración y la disponibilidad para consultas.]
